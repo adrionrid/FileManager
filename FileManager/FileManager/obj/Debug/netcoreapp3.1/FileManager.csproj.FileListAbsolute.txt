@@ -1,0 +1,17 @@
+C:\Games\VSprojects\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.exe
+C:\Games\VSprojects\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.deps.json
+C:\Games\VSprojects\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.runtimeconfig.json
+C:\Games\VSprojects\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.runtimeconfig.dev.json
+C:\Games\VSprojects\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.dll
+C:\Games\VSprojects\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.pdb
+C:\Games\VSprojects\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.csprojAssemblyReference.cache
+C:\Games\VSprojects\FileManager\FileManager\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Games\VSprojects\FileManager\FileManager\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Games\VSprojects\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager_MarkupCompile.cache
+C:\Games\VSprojects\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager_MarkupCompile.lref
+C:\Games\VSprojects\FileManager\FileManager\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Games\VSprojects\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.g.resources
+C:\Games\VSprojects\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.AssemblyInfoInputs.cache
+C:\Games\VSprojects\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.AssemblyInfo.cs
+C:\Games\VSprojects\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.dll
+C:\Games\VSprojects\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.pdb
